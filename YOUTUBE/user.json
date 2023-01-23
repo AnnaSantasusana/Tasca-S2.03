@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "63cf04d119494b915cd37452"
+  },
+  "email": "gerardromero@gmail.com",
+  "password": "1234abcd",
+  "name": "@gerardromero1700",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "504489600000"
+    }
+  },
+  "gender": "M",
+  "country": "Spain",
+  "zip_code": "08800"
+},{
+  "_id": {
+    "$oid": "63cf055d19494b915cd37453"
+  },
+  "email": "judit_nedderman1991@gmail.com",
+  "password": "judit1991",
+  "name": "@juditneddermannmusic",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "670032000000"
+    }
+  },
+  "gender": "F",
+  "country": "Spain",
+  "zip_code": "08340"
+},{
+  "_id": {
+    "$oid": "63cf05b719494b915cd37454"
+  },
+  "email": "jamesb.music@hotmail.com",
+  "password": "holidaysplease",
+  "name": "@JamesBlunt",
+  "birth_date": {
+    "$date": {
+      "$numberLong": "99187200000"
+    }
+  },
+  "gender": "M",
+  "country": "England",
+  "zip_code": "13172"
+}]

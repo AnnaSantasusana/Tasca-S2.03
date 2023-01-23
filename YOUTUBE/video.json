@@ -1,0 +1,282 @@
+[{
+  "_id": {
+    "$oid": "63cf060219494b915cd37455"
+  },
+  "user": {
+    "$oid": "63cf04d119494b915cd37452"
+  },
+  "title": "Rueda de prensa de Xavi antes del clásico Barça - Madrid de la Supercopa",
+  "description": "Tenéis el programa de Jijantes completo en: https://www.twitch.tv/gerardromero",
+  "size": 5.25,
+  "file_name": ".AVI",
+  "duration": "00:22:19",
+  "num_reproductions": 2348,
+  "num_likes": 183,
+  "num_dislikes": 3,
+  "state": "Public",
+  "tags": [
+    "#Jijantes"
+  ],
+  "publication_datetime": {
+    "$date": {
+      "$numberLong": "1673654400000"
+    }
+  },
+  "interaction": {
+    "dislike": [
+      {
+        "userID": {
+          "$oid": "63cf05b719494b915cd37454"
+        },
+        "datetime": {
+          "$date": {
+            "$numberLong": "1673740800000"
+          }
+        }
+      }
+    ],
+    "comment": [
+      {
+        "userID": {
+          "$oid": "63cf055d19494b915cd37453"
+        },
+        "text": "M agrada molt el contingut que fas!",
+        "datetime": {
+          "$date": {
+            "$numberLong": "1673740800000"
+          }
+        },
+        "reaction": {
+          "like": [
+            {
+              "userID": {
+                "$oid": "63cf04d119494b915cd37452"
+              },
+              "datetime": {
+                "$date": {
+                  "$numberLong": "1673740800000"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63cf063719494b915cd37456"
+  },
+  "user": {
+    "$oid": "63cf04d119494b915cd37452"
+  },
+  "title": "Resaca del Atleti 0 - 1 Barça: Hablamos del partido con Loren y Carmona",
+  "description": "Tenéis el programa de Jijantes completo en:  https://www.twitch.tv/gerardromero",
+  "size": 12.33,
+  "file_name": ".AVI",
+  "duration": "00:56:18",
+  "num_reproductions": 15156,
+  "num_likes": 529,
+  "num_dislikes": 15,
+  "state": "Public",
+  "tags": [
+    "#Jijantes"
+  ],
+  "publication_datetime": {
+    "$date": {
+      "$numberLong": "1673222400000"
+    }
+  },
+  "interaction": {
+    "like": [
+      {
+        "userID": {
+          "$oid": "63cf055d19494b915cd37453"
+        },
+        "datetime": {
+          "$date": {
+            "$numberLong": "1674172800000"
+          }
+        }
+      },
+      {
+        "userID": {
+          "$oid": "63cf05b719494b915cd37454"
+        },
+        "datetime": {
+          "$date": {
+            "$numberLong": "1673740800000"
+          }
+        }
+      }
+    ],
+    "comment": [
+      {
+        "userID": {
+          "$oid": "63cf05b719494b915cd37454"
+        },
+        "text": "What a great analysis of the match!",
+        "datetime": {
+          "$date": {
+            "$numberLong": "1673913600000"
+          }
+        },
+        "reaction": {
+          "like": [
+            {
+              "userID": {
+                "$oid": "63cf055d19494b915cd37453"
+              },
+              "datetime": {
+                "$date": {
+                  "$numberLong": "1674172800000"
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63cf066219494b915cd37457"
+  },
+  "user": {
+    "$oid": "63cf055d19494b915cd37453"
+  },
+  "title": "Judit Neddermann - Marea Blanca",
+  "description": "Marea blanca es un homenaje a todo el personal sanitario",
+  "size": 1.15,
+  "file_name": ".MP4",
+  "duration": "00:02:44",
+  "num_reproductions": 15395,
+  "num_likes": 328,
+  "num_dislikes": 5,
+  "state": "Public",
+  "tags": [
+    "#MareaBlanca"
+  ],
+  "publication_datetime": {
+    "$date": {
+      "$numberLong": "1608249600000"
+    }
+  },
+  "interaction": {
+    "like": [
+      {
+        "userID": {
+          "$oid": "63cf04d119494b915cd37452"
+        },
+        "datetime": {
+          "$date": {
+            "$numberLong": "1612915200000"
+          }
+        }
+      }
+    ],
+    "dislike": [
+      {
+        "userID": {
+          "$oid": "63cf05b719494b915cd37454"
+        },
+        "datetime": {
+          "$date": {
+            "$numberLong": "1636588800000"
+          }
+        }
+      }
+    ],
+    "comment": [
+      {
+        "userID": {
+          "$oid": "63cf05b719494b915cd37454"
+        },
+        "text": "I think this song could sound much better",
+        "datetime": {
+          "$date": {
+            "$numberLong": "1636588800000"
+          }
+        },
+        "reaction": {
+          "dislike": [
+            {
+              "userID": {
+                "$oid": "63cf04d119494b915cd37452"
+              },
+              "datetime": {
+                "$date": {
+                  "$numberLong": "1648166400000"
+                }
+              }
+            },
+            {
+              "userID": {
+                "$oid": "63cf055d19494b915cd37453"
+              },
+              "datetime": {
+                "$date": {
+                  "$numberLong": "1638403200000"
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "comment": [
+          {
+            "userID": {
+              "$oid": "63cf04d119494b915cd37452"
+            },
+            "text": "Tens una veu preciosa",
+            "datetime": {
+              "$date": {
+                "$numberLong": "1610668800000"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63cf06a019494b915cd37458"
+  },
+  "user": {
+    "$oid": "63cf05b719494b915cd37454"
+  },
+  "title": "Love Under Pressure",
+  "description": "The official music video for James Blunt - Love Under Pressure",
+  "size": 1.22,
+  "file_name": ".MP4",
+  "duration": "00:02:48",
+  "num_reproductions": 1370346,
+  "num_likes": 28000,
+  "num_dislikes": 4609,
+  "state": "Public",
+  "tags": [
+    "#JamesBlunt",
+    "#LoveUnderPressure"
+  ],
+  "publication_datetime": {
+    "$date": {
+      "$numberLong": "1631836800000"
+    }
+  },
+  "interaction": {
+    "like": [
+      {
+        "userID": {
+          "$oid": "63cf04d119494b915cd37452"
+        },
+        "datetime": {
+          "$date": {
+            "$numberLong": "1634860800000"
+          }
+        }
+      }
+    ]
+  }
+}]

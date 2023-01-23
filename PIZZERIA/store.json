@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "63cc5a2b19494b915cd3744a"
+  },
+  "address": {
+    "street": "Rambla de Lluís Sanpere, 6",
+    "zip_code": "25200",
+    "locality": "Cervera",
+    "province": "Lleida"
+  },
+  "employee": [
+    {
+      "id": 1,
+      "name": "Pau",
+      "surnames": "Zanuy Leal",
+      "nif": "32127244M",
+      "phone": "667892312",
+      "position": "Delivery person"
+    },
+    {
+      "id": 2,
+      "name": "Eloi",
+      "surnames": "Sucarrats Cots",
+      "nif": "39345679A",
+      "phone": "694734421",
+      "position": "Cook"
+    }
+  ]
+}]

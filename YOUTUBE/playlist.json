@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "63cf071919494b915cd37459"
+  },
+  "user": {
+    "$oid": "63cf04d119494b915cd37452"
+  },
+  "name": "Música inspiradora",
+  "creation_date": {
+    "$date": {
+      "$numberLong": "1621641600000"
+    }
+  },
+  "state": "Private",
+  "video": [
+    {
+      "$oid": "63cf066219494b915cd37457"
+    },
+    {
+      "$oid": "63cf06a019494b915cd37458"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63cf072619494b915cd3745a"
+  },
+  "user": {
+    "$oid": "63cf055d19494b915cd37453"
+  },
+  "name": "Barça",
+  "creation_date": {
+    "$date": {
+      "$numberLong": "1672876800000"
+    }
+  },
+  "state": "Private",
+  "video": [
+    {
+      "$oid": "63cf060219494b915cd37455"
+    },
+    {
+      "$oid": "63cf063719494b915cd37456"
+    }
+  ]
+}]

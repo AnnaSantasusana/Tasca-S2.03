@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "63cc5cb619494b915cd3744e"
+  },
+  "datetime": {
+    "$date": {
+      "$numberLong": "1665573798000"
+    }
+  },
+  "home_or_store": "store",
+  "product": [
+    {
+      "category": "Classic pizza",
+      "name": "Four cheeses",
+      "description": "Tomato, mozzarella, goat cheese, gorgonzola and emmental cheese",
+      "image": "https://pizzeria.com/img/fourcheeses.jpg",
+      "price": {
+        "$numberDecimal": "10.25"
+      },
+      "quantity": 1
+    },
+    {
+      "category": "Drink",
+      "name": "Coke",
+      "description": "Carbonated soft drink",
+      "image": "https://pizzeria.com/img/coke.jpg",
+      "price": {
+        "$numberDecimal": "2.00"
+      },
+      "quantity": 2
+    }
+  ],
+  "total_price": {
+    "$numberDecimal": "14.25"
+  },
+  "customer": {
+    "$oid": "63cc58b719494b915cd37447"
+  },
+  "store": {
+    "$oid": "63cc5a2b19494b915cd3744a"
+  }
+},{
+  "_id": {
+    "$oid": "63cc5d0719494b915cd37450"
+  },
+  "datetime": {
+    "$date": {
+      "$numberLong": "1669926905000"
+    }
+  },
+  "home_or_store": "home",
+  "product": [
+    {
+      "category": "Hamburguer",
+      "name": "Cheeseleader",
+      "description": "Beef, battered tomato, bacon and caramelized onions",
+      "image": "https://pizzeria.com/img/cheeseleader.jpg",
+      "price": {
+        "$numberDecimal": "10.75"
+      },
+      "quantity": 1
+    },
+    {
+      "category": "Drink",
+      "name": "Beer",
+      "description": "Carbonated, fermented alcoholic beverage",
+      "image": "https://pizzeria.com/img/beer.jpg",
+      "price": {
+        "$numberDecimal": "2.50"
+      },
+      "quantity": 1
+    }
+  ],
+  "total_price": {
+    "$numberDecimal": "13.25"
+  },
+  "delivery": {
+    "employee_id": 1,
+    "datetime": {
+      "$date": {
+        "$numberLong": "1669928575000"
+      }
+    }
+  },
+  "customer": {
+    "$oid": "63cc58d419494b915cd37448"
+  },
+  "store": {
+    "$oid": "63cc5a2b19494b915cd3744a"
+  }
+}]

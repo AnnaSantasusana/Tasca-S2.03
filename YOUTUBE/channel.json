@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "63cf073319494b915cd3745b"
+  },
+  "user": {
+    "$oid": "63cf04d119494b915cd37452"
+  },
+  "name": "Gerard Romero",
+  "description": "Canal del periodista deportivo y streamer Gerard Romero.",
+  "creation_date": {
+    "$date": {
+      "$numberLong": "1348531200000"
+    }
+  },
+  "subscribers": {
+    "userID": [
+      {
+        "$oid": "63cf055d19494b915cd37453"
+      },
+      {
+        "$oid": "63cf05b719494b915cd37454"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63cf074119494b915cd3745c"
+  },
+  "user": {
+    "$oid": "63cf055d19494b915cd37453"
+  },
+  "name": "JuditNeddermannMusic",
+  "description": "www.juditneddermann.com",
+  "creation_date": {
+    "$date": {
+      "$numberLong": "1388966400000"
+    }
+  },
+  "subscribers": {
+    "userID": [
+      {
+        "$oid": "63cf04d119494b915cd37452"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "63cf074e19494b915cd3745d"
+  },
+  "user": {
+    "$oid": "63cf05b719494b915cd37454"
+  },
+  "name": "James Blunt",
+  "description": "The official YouTube channel of Atlantic Records artist James Blunt. Subscribe for the latest music videos, performances, and more.",
+  "creation_date": {
+    "$date": {
+      "$numberLong": "1156896000000"
+    }
+  },
+  "subscribers": {
+    "userID": [
+      {
+        "$oid": "63cf04d119494b915cd37452"
+      }
+    ]
+  }
+}]

@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63caaf8619494b915cd3743c"
+  },
+  "name": "Anna Pintado",
+  "zip_code": "08240",
+  "phone": "638990042",
+  "mail": "annap_92@hotmail.com",
+  "registration_data": {
+    "$date": {
+      "$numberLong": "1647216000000"
+    }
+  },
+  "recommendation_id": {
+    "$oid": "000000000000000000000000"
+  }
+},{
+  "_id": {
+    "$oid": "63caaff119494b915cd3743d"
+  },
+  "name": "Josep Molina",
+  "zip_code": "08010",
+  "phone": "619773114",
+  "mail": "josepmolina@gmail.com",
+  "registration_data": {
+    "$date": {
+      "$numberLong": "1577145600000"
+    }
+  },
+  "recommendation_id": {
+    "$oid": "63caaf8619494b915cd3743c"
+  }
+}]

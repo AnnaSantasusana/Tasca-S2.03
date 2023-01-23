@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "63cab62119494b915cd37443"
+  },
+  "brand": "Etnia Barcelona",
+  "left_eye_graduation": -2.25,
+  "right_eye_graduation": -3,
+  "frame_type": "Metal",
+  "frame_color": "Red",
+  "glass_color": "Grey",
+  "price": {
+    "$numberDecimal": "135.50"
+  },
+  "provider": {
+    "$oid": "63caa46619494b915cd37438"
+  },
+  "sale": {
+    "$oid": "63cab29e19494b915cd3743e"
+  }
+},{
+  "_id": {
+    "$oid": "63cab69319494b915cd37445"
+  },
+  "brand": "Silhouette",
+  "left_eye_graduation": 0.5,
+  "right_eye_graduation": 0.75,
+  "frame_type": "Floating",
+  "frame_color": "Black",
+  "glass_color": "Blue",
+  "price": {
+    "$numberDecimal": "230.00"
+  },
+  "provider": {
+    "$oid": "63caa91a19494b915cd37439"
+  },
+  "sale": {
+    "$oid": "63cab2d619494b915cd3743f"
+  }
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "63cc58b719494b915cd37447"
+  },
+  "name": "Dídac",
+  "surnames": "Soldevila Màrquez",
+  "address": {
+    "street": "C/ Ramon Cantó, 12, 3r-3a",
+    "zip_code": "25200",
+    "locality": "Cervera",
+    "province": "Lleida"
+  },
+  "phone": "619421379"
+},{
+  "_id": {
+    "$oid": "63cc58d419494b915cd37448"
+  },
+  "name": "Alexia",
+  "surnames": "Noia Redón",
+  "address": {
+    "street": "C/ Major, 74, 3r-4t",
+    "zip_code": "25213",
+    "locality": "Cervera",
+    "province": "Lleida"
+  },
+  "phone": "669646212"
+}]
