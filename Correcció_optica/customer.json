@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "63d8f2be9fa2c9582bd9dabd"
+  },
+  "name": "Anna Pintado",
+  "zip_code": "08240",
+  "phone": "638990042",
+  "mail": "annap_92@hotmail,com",
+  "registration_data": {
+    "$date": {
+      "$numberLong": "1647216000000"
+    }
+  },
+  "recommendation_id": {
+    "$oid": "000000000000000000000000"
+  },
+  "purchases": [
+    {
+      "glasses_id": 1,
+      "seller_name": "Maria Gonzalez",
+      "purchase_date": {
+        "$date": {
+          "$numberLong": "1647216000000"
+        }
+      }
+    },
+    {
+      "glasses_id": 3,
+      "seller_name": "Victor Ruiz",
+      "purchase_date": {
+        "$date": {
+          "$numberLong": "1675123200000"
+        }
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d8f2d29fa2c9582bd9dabe"
+  },
+  "name": "Josep Molina",
+  "zip_code": "08010",
+  "phone": "619773114",
+  "mail": "josepmolina@gmail.com",
+  "registration_data": {
+    "$date": {
+      "$numberLong": "1577145600000"
+    }
+  },
+  "recommendation_id": {
+    "$oid": "63d8f2be9fa2c9582bd9dabd"
+  },
+  "purchases": [
+    {
+      "glasses_id": 2,
+      "seller_name": "Victor Ruiz",
+      "purchase_date": {
+        "$date": {
+          "$numberLong": "1672617600000"
+        }
+      }
+    }
+  ]
+}]
